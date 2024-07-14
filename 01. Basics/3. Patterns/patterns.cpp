@@ -307,7 +307,7 @@ int main(){
     while(t--) {
         int n;
         cin >> n;
-        pattern2(n);
+        pattern22(n);
     }
     return 0;
 }
